@@ -13,4 +13,4 @@ form.addEventListener('submit', function (e){
     addProduct(prodName.value, qty.value);
     prodName.value ='';
     qty.value ='';
-});
+}); 
